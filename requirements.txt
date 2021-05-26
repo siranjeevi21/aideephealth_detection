@@ -9,5 +9,3 @@ keras==2.4.3
 Pillow==8.2.0
 protobuf==3.17.1
 scikit_learn==0.24.2
-RUN apt-get update ##[edited]
-RUN apt-get install ffmpeg libsm6 libxext6  -y
